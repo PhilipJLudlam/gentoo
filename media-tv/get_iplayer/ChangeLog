@@ -1,0 +1,41 @@
+# ChangeLog for media-tv/get_iplayer
+# Copyright © 2009, 2010, 2011, 2012, 2013 James Rowe <jnrowe@gmail.com>
+# Copyright (C) 2013 Philip J. Ludlam
+# Distributed under the GPL v2
+
+29 Dec 2013
+  Version bump to 2.85
+
+
+  17 Sep 2013; James Rowe <jnrowe@gmail.com> get_iplayer-2.83.ebuild:
+  Use eutils' einstalldocs.
+
+  29 Jul 2013; James Rowe <jnrowe@gmail.com> -get_iplayer-2.82.ebuild,
+  get_iplayer-2.83.ebuild:
+  Keyworded amd64.
+
+  29 Jul 2013; James Rowe <jnrowe@gmail.com> get_iplayer-2.83.ebuild:
+  Keyworded x86.
+
+*get_iplayer-2.83 (29 Jun 2013)
+
+  29 Jun 2013; James Rowe <jnrowe@gmail.com> +get_iplayer-2.83.ebuild:
+  Version bump [797].
+
+  03 Jan 2013; James Rowe <jnrowe@gmail.com> get_iplayer-2.82.ebuild:
+  Keyworded x86.
+
+  03 Jan 2013; James Rowe <jnrowe@gmail.com> get_iplayer-2.82.ebuild:
+  Keyworded amd64.
+
+  04 Dec 2012; James Rowe <jnrowe@gmail.com> get_iplayer-2.82.ebuild:
+  Keyworded ~x86.
+
+  04 Dec 2012; James Rowe <jnrowe@gmail.com> get_iplayer-2.82.ebuild:
+  Apply the live TV fix from Debian.
+
+*get_iplayer-2.82 (04 Dec 2012)
+
+  04 Dec 2012; James Rowe <jnrowe@gmail.com> +get_iplayer-2.82.ebuild,
+  +metadata.xml, +watch:
+  Initial ebuild, by me [707].
